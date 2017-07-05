@@ -170,6 +170,6 @@ public class NYCStreetTrees {
 		}
 		input.close();
 		scan.close();
-		
+		int i = 0;
 	}
 }
